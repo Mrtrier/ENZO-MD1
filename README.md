@@ -1,4 +1,4 @@
-𝐄𝐍𝐙𝐎-𝐌𝐃
+## 𝐄𝐍𝐙𝐎 𝐌𝐃 𝐁𝐎𝐓
 
 <p align="center">
   <a href="https://github.com/ENZOTECH254/ENZO-MD"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Enzo+Whatsapp+Bot;Developed+by+enzo;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
