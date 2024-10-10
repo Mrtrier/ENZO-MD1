@@ -1,10 +1,10 @@
 {
-  "name": "Mercedes",
+  "name": "ENZO",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/betingrich3/Mercedes",
+  "repository": "https://github.com/ENZOTECH254/ENZO-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
